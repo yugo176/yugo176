@@ -1,23 +1,239 @@
-<h1 align="center">Hi 👋, I'm Haboudi Boukari</h1>
-<h3 align="center">Student in Mathematical Engineering and Modeling & Full-stack developer</h3>
+<!-- Header avec effet de machine à écrire (Typing SVG) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Haboudi+Boukari;Mathematical+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on *Couliflex project*
+<div align="center">
+  <h3>🚀 Student in Mathematical Engineering & Modeling | Full-stack Developer</h3>
+  <br/>
+</div>
 
-- 🌱 I’m currently learning *Integration of Mojaloop into service platforms*
-
-- 👨‍💻 All of my projects are available at [https://haboud-portfolio.zoerohisarl.com/](https://haboud-portfolio.zoerohisarl.com/)
-
-- 💬 Ask me about *React, Threejs, Express, Machine Learning*
-
-- 📫 How to reach me *haboudboukari15@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/yugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yugo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haboudi boukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haboudi boukari" height="30" width="40" /></a>
-<a href="https://fb.com/haboud boukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haboud boukari" height="30" width="40" /></a>
-<a href="https://instagram.com/its_haboud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_haboud" height="30" width="40" /></a>
+<!-- Section About Me avec une mise en page en colonnes (si supporté) ou simple -->
+<p align="center">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="center">⚡ About Me</h3>
+
+<p align="center">
+ I combine <b>mathematical logic</b> with <b>creative development</b> to build complex service platforms and interactive web experiences.
+</p>
+
+<br/>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="left" valign="top" style="border: none;">
+
+- 🔭 I’m currently working on **Couliflex Project**
+- 🌱 I’m deeply learning **Mojaloop Integration**
+- 🧠 My passion lies in **React, Three.js & Machine Learning**
+- 🎓 Major: **Mathematical Engineering & Modeling**
+- 👨‍💻 Portfolio: [**haboud-portfolio.zoerohisarl.com**](https://haboud-portfolio.zoerohisarl.com/)
+- 📫 Contact: [**haboudboukari15@gmail.com**](mailto:haboudboukari15@gmail.com)
+
+</td>
+<td width="50%" align="center" valign="center" style="border: none;">
+  <img src="https://media.giphy.com/media/QtZKO7p9tK6O8wYPSy/giphy.gif" width="100%" alt="coding" style="border-radius: 10px;"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Section Tech Stack : CLAIREMENT CATÉGORISÉE (Beaucoup plus pro) -->
+<h3 align="center">🛠️ Languages & Technologies</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><b>Frontend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind,sass,bootstrap,threejs,figma" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Backend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,python,appwrite,firebase,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Data & AI</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,matlab,sklearn,pandas,seaborn" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Database</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Mobile</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=android,react,flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>DevOps & Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,c,cpp,qt,selenium" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Github Stats (Rend le profil vivant) -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/VOTRE_USERNAME_GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Social Media avec des badges uniformes -->
+<h3 align="center">🤝 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/haboudi-boukari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/yugo" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://instagram.com/its_haboud" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:haboudboukari15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p><!-- Header avec effet de machine à écrire (Typing SVG) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Haboudi+Boukari;Mathematical+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <h3>🚀 Student in Mathematical Engineering & Modeling | Full-stack Developer</h3>
+  <br/>
+</div>
+
+<!-- Section About Me avec une mise en page en colonnes (si supporté) ou simple -->
+<p align="center">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
+</p>
+
+<h3 align="center">⚡ About Me</h3>
+
+<p align="center">
+ I combine <b>mathematical logic</b> with <b>creative development</b> to build complex service platforms and interactive web experiences.
+</p>
+
+<br/>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="left" valign="top" style="border: none;">
+
+- 🔭 I’m currently working on **Couliflex Project**
+- 🌱 I’m deeply learning **Mojaloop Integration**
+- 🧠 My passion lies in **React, Three.js & Machine Learning**
+- 🎓 Major: **Mathematical Engineering & Modeling**
+- 👨‍💻 Portfolio: [**haboud-portfolio.zoerohisarl.com**](https://haboud-portfolio.zoerohisarl.com/)
+- 📫 Contact: [**haboudboukari15@gmail.com**](mailto:haboudboukari15@gmail.com)
+
+</td>
+<td width="50%" align="center" valign="center" style="border: none;">
+  <img src="https://media.giphy.com/media/QtZKO7p9tK6O8wYPSy/giphy.gif" width="100%" alt="coding" style="border-radius: 10px;"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Section Tech Stack : CLAIREMENT CATÉGORISÉE (Beaucoup plus pro) -->
+<h3 align="center">🛠️ Languages & Technologies</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><b>Frontend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind,sass,bootstrap,threejs,figma" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Backend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,python,appwrite,firebase,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Data & AI</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,matlab,sklearn,pandas,seaborn" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Database</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Mobile</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=android,react,flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>DevOps & Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,c,cpp,qt,selenium" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Github Stats (Rend le profil vivant) -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/VOTRE_USERNAME_GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Social Media avec des badges uniformes -->
+<h3 align="center">🤝 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/haboudi-boukari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/yugo" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://instagram.com/its_haboud" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:haboudboukari15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
