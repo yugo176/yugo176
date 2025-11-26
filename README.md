@@ -69,6 +69,7 @@
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-algorithm-data-science-flaticons-flat-flat-icons-2.png" width="35"/><br/><b>Maths & AI</b>
 </td>
 <td>
+<!-- Utilisation de SkillIcons pour garantir l'affichage -->
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,matlab,sklearn" />
 </td>
 </tr>
@@ -91,17 +92,6 @@
 </table>
 
 <br/>
-
-<!-- NOUVELLE SECTION STATS (Alternative fiable) -->
-<h3 align="center">📊 GitHub Activity</h3>
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=yugo176&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-</a>
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yugo176&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
 <br/>
 
 <!-- FOOTER -->
