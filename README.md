@@ -69,7 +69,7 @@
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-algorithm-data-science-flaticons-flat-flat-icons-2.png" width="35"/><br/><b>Maths & AI</b>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,pandas,sklearn,python" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,matlab,sklearn" />
 </td>
 </tr>
 <tr>
@@ -95,18 +95,25 @@
 <!-- SECTION STATS -->
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-<!-- ATTENTION : REMPLACE 'TON_USERNAME_GITHUB' CI-DESSOUS PAR TON PSEUDO EXACT -->
-<img src="https://github-readme-stats.vercel.app/api?username=Tyugo176&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3399FF&icon_color=3399FF" height="160" alt="stats graph" />
+<a href="https://github.com/yugo176">
+<img src="https://github-readme-stats.vercel.app/api?username=yugo176&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3399FF&icon_color=3399FF" height="160" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugo176&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=3399FF&icon_color=3399FF" height="160" alt="languages graph" />
+</a>
 </div>
 
 <br/>
 
 <!-- FOOTER -->
 <div align="center">
-<a href="https://dev.to/yugo" target="_blank" style="margin: 0 10px;"><img src="https://img.icons8.com/color/48/dev.png" alt="Dev.to" width="40"/></a>
-<a href="https://instagram.com/its_haboud" target="_blank" style="margin: 0 10px;"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40"/></a>
-<a href="https://fb.com/haboud-boukari" target="_blank" style="margin: 0 10px;"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/></a>
+<a href="https://dev.to/yugo" target="_blank" style="margin: 0 10px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40"/>
+</a>
+<a href="https://instagram.com/its_haboud" target="_blank" style="margin: 0 10px;">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
+</a>
+<a href="https://fb.com/haboud-boukari" target="_blank" style="margin: 0 10px;">
+<img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
+</a>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=60&section=footer" width="100%"/>
 </div>
