@@ -1,239 +1,145 @@
-<!-- Header avec effet de machine à écrire (Typing SVG) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Haboudi+Boukari;Mathematical+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
-</h1>
-
+<!-- HEADER & TITLE -->
 <div align="center">
-  <h3>🚀 Student in Mathematical Engineering & Modeling | Full-stack Developer</h3>
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Hello,+I'm+Haboudi+Boukari;Mathematical+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  
+  <p align="center">
+    <a href="https://haboud-portfolio.zoerohisarl.com/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Work-2088FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:haboudboukari15@gmail.com">
+      <img src="https://img.shields.io/badge/CONTACT-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
 
-<!-- Section About Me avec une mise en page en colonnes (si supporté) ou simple -->
-<p align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
-</p>
-
-<h3 align="center">⚡ About Me</h3>
-
-<p align="center">
- I combine <b>mathematical logic</b> with <b>creative development</b> to build complex service platforms and interactive web experiences.
-</p>
-
 <br/>
 
-<table align="center" style="border: none;">
-<tr>
-<td width="50%" align="left" valign="top" style="border: none;">
+<!-- MAIN CONTENT SECTION -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- LEFT COLUMN: INFO & TEXT -->
+    <td width="55%" valign="top">
+      <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Professional Summary</h3>
+      <p align="left">
+        Bridging the gap between <b>Abstract Mathematics</b> and <b>Concrete Software Engineering</b>. I specialize in building complex, data-driven architectures and scalable service platforms.
+      </p>
+      
+      <br/>
 
-- 🔭 I’m currently working on **Couliflex Project**
-- 🌱 I’m deeply learning **Mojaloop Integration**
-- 🧠 My passion lies in **React, Three.js & Machine Learning**
-- 🎓 Major: **Mathematical Engineering & Modeling**
-- 👨‍💻 Portfolio: [**haboud-portfolio.zoerohisarl.com**](https://haboud-portfolio.zoerohisarl.com/)
-- 📫 Contact: [**haboudboukari15@gmail.com**](mailto:haboudboukari15@gmail.com)
+      <!-- CURRENT WORK -->
+      <table border="0" cellpadding="2">
+        <tr>
+          <td valign="top"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-planning-agile-flaticons-flat-flat-icons-2.png" width="25"/></td>
+          <td>
+            <b>Current Focus:</b><br/>
+            Architecting the <i>Couliflex Project</i> ecosystem.
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-learning-university-flaticons-flat-flat-icons-2.png" width="25"/></td>
+          <td>
+            <b>R&D / Learning:</b><br/>
+            Implementing <i>Mojaloop</i> for interoperable financial services.
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><img src="https://img.icons8.com/color/48/code.png" width="25"/></td>
+          <td>
+            <b>Core Stack:</b><br/>
+            React.js, Three.js, Express & Machine Learning Algorithms.
+          </td>
+        </tr>
+      </table>
+    </td>
 
-</td>
-<td width="50%" align="center" valign="center" style="border: none;">
-  <img src="https://media.giphy.com/media/QtZKO7p9tK6O8wYPSy/giphy.gif" width="100%" alt="coding" style="border-radius: 10px;"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Section Tech Stack : CLAIREMENT CATÉGORISÉE (Beaucoup plus pro) -->
-<h3 align="center">🛠️ Languages & Technologies</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90"><b>Frontend</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind,sass,bootstrap,threejs,figma" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Backend</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,python,appwrite,firebase,graphql" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Data & AI</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,matlab,sklearn,pandas,seaborn" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Database</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Mobile</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=android,react,flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>DevOps & Tools</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,c,cpp,qt,selenium" />
+    <!-- RIGHT COLUMN: ANIMATION -->
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Developer Animation"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Github Stats (Rend le profil vivant) -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- TECH STACK SECTION -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iTWrX1d9KvnC8FqKk3/giphy.gif" width="30"> Technical Arsenal
+</h3>
 
 <div align="center">
-  <a href="https://github.com/VOTRE_USERNAME_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&theme=tokyonight"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/dusk/64/000000/web-design.png" width="40"/><br/>
+        <b>Frontend</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,redux,figma,html,css" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/dusk/64/000000/server.png" width="40"/><br/>
+        <b>Backend</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,symfony,appwrite,firebase,graphql" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/dusk/64/000000/brain-3.png" width="40"/><br/>
+        <b>Maths & AI</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,pandas,sklearn,python" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/dusk/64/000000/database.png" width="40"/><br/>
+        <b>Data</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/dusk/64/000000/settings-3.png" width="40"/><br/>
+        <b>DevOps</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,c" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- Social Media avec des badges uniformes -->
-<h3 align="center">🤝 Let's Connect</h3>
+<!-- GITHUB STATS -->
+<h3 align="center"> Activity Overview</h3>
+<div align="center">
+  <!-- CHANGEZ 'VOTRE_USERNAME_GITHUB' CI-DESSOUS PAR VOTRE VRAI USERNAME -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yugo176&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugo176&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
 
-<p align="center">
+<br/>
+
+<!-- FOOTER SOCIALS -->
+<div align="center">
   <a href="https://linkedin.com/in/haboudi-boukari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35"/>
   </a>
   <a href="https://dev.to/yugo" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="https://img.icons8.com/color/48/000000/dev.png" alt="Dev.to" width="35"/>
   </a>
   <a href="https://instagram.com/its_haboud" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="35"/>
   </a>
-  <a href="mailto:haboudboukari15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p><!-- Header avec effet de machine à écrire (Typing SVG) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Haboudi+Boukari;Mathematical+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <h3>🚀 Student in Mathematical Engineering & Modeling | Full-stack Developer</h3>
-  <br/>
-</div>
-
-<!-- Section About Me avec une mise en page en colonnes (si supporté) ou simple -->
-<p align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
-</p>
-
-<h3 align="center">⚡ About Me</h3>
-
-<p align="center">
- I combine <b>mathematical logic</b> with <b>creative development</b> to build complex service platforms and interactive web experiences.
-</p>
-
-<br/>
-
-<table align="center" style="border: none;">
-<tr>
-<td width="50%" align="left" valign="top" style="border: none;">
-
-- 🔭 I’m currently working on **Couliflex Project**
-- 🌱 I’m deeply learning **Mojaloop Integration**
-- 🧠 My passion lies in **React, Three.js & Machine Learning**
-- 🎓 Major: **Mathematical Engineering & Modeling**
-- 👨‍💻 Portfolio: [**haboud-portfolio.zoerohisarl.com**](https://haboud-portfolio.zoerohisarl.com/)
-- 📫 Contact: [**haboudboukari15@gmail.com**](mailto:haboudboukari15@gmail.com)
-
-</td>
-<td width="50%" align="center" valign="center" style="border: none;">
-  <img src="https://media.giphy.com/media/QtZKO7p9tK6O8wYPSy/giphy.gif" width="100%" alt="coding" style="border-radius: 10px;"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Section Tech Stack : CLAIREMENT CATÉGORISÉE (Beaucoup plus pro) -->
-<h3 align="center">🛠️ Languages & Technologies</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90"><b>Frontend</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind,sass,bootstrap,threejs,figma" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Backend</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,python,appwrite,firebase,graphql" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Data & AI</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,matlab,sklearn,pandas,seaborn" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Database</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Mobile</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=android,react,flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>DevOps & Tools</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,c,cpp,qt,selenium" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Github Stats (Rend le profil vivant) -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <a href="https://github.com/VOTRE_USERNAME_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&theme=tokyonight"/>
+  <a href="https://fb.com/haboud-boukari" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="35"/>
   </a>
 </div>
-
-<br/>
-
-<!-- Social Media avec des badges uniformes -->
-<h3 align="center">🤝 Let's Connect</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/haboudi-boukari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/yugo" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://instagram.com/its_haboud" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:haboudboukari15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
