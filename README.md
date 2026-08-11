@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td valign="top" width="30"><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="25" alt="Stack"/></td>
-<td><b>Core Expertise:</b><br/>React, Three.js, Express & Applied Machine Learning.</td>
+<td><b>Core Expertise:</b><br/>React, React Native, Three.js, Express & Applied Machine Learning.</td>
 </tr>
 </table>
 </td>
